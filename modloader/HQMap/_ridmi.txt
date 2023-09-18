@@ -1,0 +1,23 @@
+.
+
+--- EN ---
+HQ Radar for GTA: San Andreas (author: yojo2) v1.02
+I spent long time making this mod, so please don't steal my work. (or else you'll be rickrolled)
+
+Installation:
+- using IMG Tool: open gta3.img and replace every txd named radarXX.txd to those shipped with the mod. You can backup original files in case you don't like my mod.
+OR:
+- using San Andreas Mod Installer: double click _hqr-sa1.sami file and install it. Then do the same with _hqr-sa2.sami file. SAMI will install the mod for you and will backup original files too.
+
+Map was made in Iconscape.
+
+--- PL ---
+HQ Radar dla GTA: San Andreas (autor: yojo2) v1.02
+Spêdzi³em du¿o czasu tworz¹c tego moda, wiêc go z ³aski swojej nie kradnij. (bo bêdziesz zrickrollowany)
+
+Instalacja:
+- u¿ywaj¹c IMG Tool: otwórz gta3.img i podmieñ ka¿dy plik txd o nazwie radarXX.txd na te dostarczone z modem. Mo¿esz na wszelki wypadek zrobiæ kopiê zapasow¹ oryginalnych plików gdybyœ nie polubi³ tego modu.
+LUB:
+- u¿ywaj¹c San Andreas Mod Installer: kliknij dwukrotnie na plik _hqr-sa1.sami i zainstaluj go. To samo zrób z plikiem _hqr-sa2.sami. SAMI resztê zrobi za ciebie, zrobi te¿ kopiê zapasow¹ oryginalnych plików.
+
+Mapa zosta³a zrobiona w programie Iconscape.
