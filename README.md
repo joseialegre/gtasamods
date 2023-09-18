@@ -1,4 +1,4 @@
-INSTRUCTIONS
+# INSTRUCTIONS
 1. You need Downgrade to the 1.0 version.
 2. You Need to install CLEO and MODLOADER, otherwise mods won't work.
 3. Copy the 'modloader' folder into your game directory.
